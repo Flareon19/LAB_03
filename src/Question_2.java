@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Question_2 {
-    public static void main() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double price = scanner.nextDouble();
         int Rupees = (int) price;
